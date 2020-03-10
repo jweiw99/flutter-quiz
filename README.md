@@ -3,6 +3,8 @@
 UCCD3223 Mobile Applications Development
 Individual_Practical_Assignment
 
+![](image/homepage.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
